@@ -65,10 +65,13 @@
 ### Custom domain 
 
 - Step 1: Enter the custom domain that you'd like to connect to your Hosting site
-![Step_1][Step_01.png]
+
+![Step_1][https://github.com/nhanhv-vn/firebase-hosting/blob/develop/Step_1.png]
+
 
 - Step 2: Verify your domain ownership with you DNS records
-![Step_2][Step_02.png]
+
+![Step_2][https://github.com/nhanhv-vn/firebase-hosting/blob/develop/Step_2.png]
 
 ### Notes
 
