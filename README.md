@@ -27,7 +27,7 @@
 
     - Easy to customize domain & SSL
 
-    - One more important with me: *FREE 1GB store SSD*. Of course, it is very easy to expand more memory
+    - One more important with me: *FREE 1GB store SSD*. Of course, it is very easy to expand more storage
 
 - Basic step by step deploy static
 
