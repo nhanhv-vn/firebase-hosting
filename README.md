@@ -61,6 +61,8 @@
 
 - Get domain return after deployed from firebase cli and run your site.
 
+- Demo: https://landing-page-58c92.web.app/
+
 
 ### Custom domain 
 
