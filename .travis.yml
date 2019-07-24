@@ -8,8 +8,4 @@ deploy:
   on:
     branch: advance-auto-deploy
   script:
-    - echo "Deploying!!"
     - firebase deploy --project $PROJECT_ID --token $FIREBASE_TOKEN
-after_success:
-  script:
-    - echo "Deployed!!"
