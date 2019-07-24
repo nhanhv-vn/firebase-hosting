@@ -85,20 +85,18 @@
 
 ### Prepare
 
-    - [Github](https://github.com/) account/repository to push source code
-
-    - [Travis](https://docs.travis-ci.com/) account and Sync account with github account
+- [Github](https://github.com/) account/repository to push source code
+- 
+- [Travis](https://docs.travis-ci.com/) account and Sync account with github account
 
 ### Setup auto deploy
+- Create .travis.yml
 
-    - Create .travis.yml
+- Setup environment variables on travis [Docs](https://docs.travis-ci.com/)
 
-    - Setup environment variables on travis[Docs](https://docs.travis-ci.com/)
+- Writing script deployment
 
-    - Writing script deployment
-
-    - Push code to github and reward yourself with a beer
-
+- Push code to github and reward yourself with a beer
 
 ## Notes
 
@@ -106,4 +104,3 @@
 Run `firebase login:ci`
 
 - Add more *Makefile* to add more tasks before run deploy
-
