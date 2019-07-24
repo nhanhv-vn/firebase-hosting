@@ -78,3 +78,32 @@
 ### Notes
 
 - Template static files download from https://html5up.net/
+
+## Advance
+
+- Auto deploy static page with github + travis ci
+
+### Prepare
+
+    - [Github](https://github.com/) account/repository to push source code
+
+    - [Travis](https://docs.travis-ci.com/) account and Sync account with github account
+
+### Setup auto deploy
+
+    - Create .travis.yml
+
+    - Setup environment variables on travis[Docs](https://docs.travis-ci.com/)
+
+    - Writing script deployment
+
+    - Push code to github and reward yourself with a beer
+
+
+## Notes
+
+- Get firebase token
+Run `firebase login:ci`
+
+- Add more *Makefile* to add more tasks before run deploy
+

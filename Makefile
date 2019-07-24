@@ -1,2 +1,2 @@
 test:
-	echo "Hello World"
+	echo "You are hero!"

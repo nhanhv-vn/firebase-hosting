@@ -6,6 +6,8 @@ install:
 deploy:
   - provider: script
     script:
+      # $PROJECT_ID, $FIREBASE_TOKEN are variables ENVs configured on travis-ci
       - firebase deploy --project $PROJECT_ID --token $FIREBASE_TOKEN
     on:
+      # Clone source from advance-auto-deploy branch
       branch: advance-auto-deploy
