@@ -1,2 +1,2 @@
-say_hello:
+test:
 	echo "Hello World"
